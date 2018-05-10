@@ -1,16 +1,32 @@
 import nltk
 from nltk.corpus import stopwords
 
-# nltk.download()
+#nltk.download()
 
 stop_words = set(stopwords.words('english'))
 
 
-def respond(sentence):
+def getUserVar(var, profile):
+    i = 0
+    while i < len(profile):
+        if profile[i][0] == var:
+            return profile[i][1]
+        i += 1
+
+# user profile: name, age, gender, weight, height, country
+def respond(sentence, profile=[]):
+    if sentence == "":
+        if not profile:
+            response = "Hi, I am Healp, your personal health assistant. Before you start chatting with me I would " \
+                       "like to know some things about you."
+        else:
+            response = "Hi " + getUserVar("name", profile) + "! How can I help you today?"
+        return response
+
     words = nltk.word_tokenize(sentence)
     pos = nltk.pos_tag(words)
 
-    # print(pos)
+    #print(pos)
 
     prev_pos = pos[0][1]
     term = ""
@@ -38,7 +54,7 @@ def respond(sentence):
     for term in terms:
         if i == len(terms):
             ending = "."
-        elif i == len(terms)-1:
+        elif i == len(terms) - 1:
             ending = " and "
         else:
             ending = ", "
@@ -48,6 +64,13 @@ def respond(sentence):
     return response
 
 
-r = respond("I have stomachache, severe headache and also my nose is bleeding.")
+#r = respond("I have stomachache, severe headache and also my nose is bleeding.")
+r = respond("", [("name", "Chris"),
+                 ("age", 22),
+                 ("gender", "male"),
+                 ("weight", 59),
+                 ("height", 180),
+                 ("country", "Greece")])
+#r = respond("")
 
 print(r)
