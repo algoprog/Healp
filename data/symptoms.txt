@@ -1,0 +1,1290 @@
+Morning joint stiffness
+Nausea or vomiting (Abdomen)
+Weight loss (unintentional)
+Broken bone (single fracture) (Lumbar spine)
+Food cravings
+Difficulty breathing through nose
+Hunched or stooped posture (Back)
+Pain or discomfort (Achilles)
+Food getting stuck (swallowing)
+Skin rash
+Testicles shrinkage
+Bruising or discoloration (Back)
+Distortion of part of visual field
+Unable to blink or close eyelid
+Anxiety
+Change in bowel habits (Abdomen (lower))
+Numbness or tingling (Ankle)
+Pressure or heaviness
+Broken bones (multiple fractures) (Arm)
+Constipation (Abdomen (lower))
+Lump or bulge (Upper arm (bicep))
+Bulging veins (Abdomen (upper))
+Shuffling gait (feet) (Foot (top))
+Swollen tonsils
+Tenderness to touch (Wrist)
+Inability to move (Upper arm (tricep))
+Blood on toilet tissue
+Bruising or discoloration (Leg)
+Loss of height
+Pain or discomfort (Chest)
+Warm to touch (Abdomen (lower))
+Stiffness or decreased movement (Calf)
+Blue colored skin (Skin)
+Dry skin
+Muscle cramps or spasms (painful) (Arm)
+Body aches or pains
+Morning alcohol drinking (eye-opener)
+Swelling (Hip)
+Itching or burning (Neck (front))
+Seizures (uncontrollable jerking of limbs) (Leg)
+Visible deformity (Foot (top))
+Multiple bruises of different ages (Leg)
+Swelling (Chest)
+Distended stomach
+Distorted body image
+Mood swings
+Eyelashes falling out
+Numbness or tingling (Abdomen (lower))
+Lump or bulge (Groin)
+Guarding or favoring joint (Elbow)
+Broken bone (single fracture)
+Lack of motivation
+Bleeding (Fingers)
+Bleeding (Jaw)
+Labored breathing
+Swelling (Back)
+Warm to touch (Lumbar spine)
+Swelling (Elbow)
+Swelling (Hand (palm))
+Pain or discomfort (Hamstring)
+Tenderness to touch (Foot (top))
+Difficulty standing
+Broken bones (multiple fractures) (Back)
+Bulging veins (Calf)
+Excessive body hair growth (General)
+Enlarged finger tips
+Pain with sexual intercourse (female) (Abdomen (lower))
+Weakness (Thigh)
+Bald spots (hair) (Scalp)
+Impulsive behavior
+Swelling (Ears)
+Swelling (Neck (back))
+Bleeding (Pelvis)
+Warm to touch (Popliteal fossa)
+Visible deformity (Scalp)
+Tenderness to touch (Arm)
+Nasal symptoms and one red eye (Eyes)
+Difficulty urinating
+Swelling (Calf)
+Warm to touch (Thigh)
+Bruising or discoloration (Hamstring)
+Change in vision
+Seizures (uncontrollable jerking of limbs)
+Bruising or discoloration (Calf)
+Warm to touch (Chest (lateral))
+Swelling (Hand (back))
+Drainage or pus (Nose)
+Bloody or red colored vomit
+Mouth sores
+Swelling (Eyes)
+Taste words when they are heard
+Restless (urge to move) legs
+Bleeding (Groin)
+Weakness (Knee (patella))
+Tenderness to touch (Pelvis)
+Shaking hands or tremor (Fingers)
+Pain or discomfort (Arm)
+Multiple bruises of different ages (Shin)
+Warm to touch (Mouth)
+Numbness or tingling (Foot (top))
+Palpitations (fluttering in chest)
+Involuntary movements (picking lip smacking etc.) (Hand (back))
+Excessive facial hair growth (female) (General)
+Involuntary movements (picking lip smacking etc.) (Hand (palm))
+Involuntary head turning or twisting (Neck (front))
+Lump or bulge (Hip)
+Swelling (Buttock)
+Decreased appetite
+Short arms and legs
+Enlarged or swollen glands (Jaw)
+Drainage or pus (Buttock)
+Warm to touch (Knee (patella))
+Pressure or fullness (Genitals)
+Yellow skin
+Restrictive dieting
+Bleeding (Hand (back))
+Drainage or pus (Skin)
+Multiple bruises of different ages (Genitals)
+Change in bowel habits (Abdomen)
+Difficulty talking (Mouth)
+Tires quickly
+Bruising or discoloration (Elbow)
+Pain or discomfort (Forearm (extensor))
+Hoarse voice
+Painful bowel movements (Abdomen (upper))
+Muscle cramps or spasms (painful) (Fingers)
+Unable to bear weight (Calf)
+Noisy breathing (Chest)
+Stool leaking (incontinence)
+Runny nose
+Swelling (Abdomen (upper))
+Holding objects further away to read
+Pain or discomfort (Hand (back))
+Swelling (Thigh)
+Swelling (Pelvis)
+Tenderness to touch (Hand (back))
+Morning joint stiffness (Popliteal fossa)
+Color change (Fingers)
+Visible deformity (Wrist)
+Worms in stool (Abdomen (lower))
+Bloody or red colored vomit (Abdomen)
+Headache (worst ever)
+Visible deformity (Back)
+Hallucinations
+Dizziness (Scalp)
+Bruising or discoloration (Forearm (extensor))
+Stiffness or decreased movement (Back)
+Numbness or tingling (Scalp)
+Multiple bruises of different ages (Abdomen)
+Short attention span
+Involuntary movements (picking lip smacking etc.) (Fingers)
+Scaley skin on eyelids
+Disorientation
+Shaking hands or tremor (Hand (palm))
+Nasal symptoms and one red eye
+Upset stomach
+Bruising or discoloration (Foot (top))
+Overweight
+Gritty or scratchy eyes
+Warm to touch (Chest)
+Guarding or favoring joint (Knee (patella))
+Bruising or discoloration (Chest)
+Morning joint stiffness (Knee (patella))
+Stiffness or decreased movement (Thoracic spine)
+Distended stomach (Abdomen (upper))
+Blank stare (Eyes)
+Numbness or tingling (Face)
+Bloody or red colored stools
+Swelling (Leg)
+Weakness (Hand (palm))
+Feeling of not being able to get enough air
+Palpitations (fluttering in chest) (Chest (sternum))
+Popping or snapping sound from joint (Knee (patella))
+Recent (short-term) memory loss
+Multiple bruises of different ages (Upper arm (bicep))
+Muscle cramps or spasms (painful) (Chest)
+Drainage or pus (Calf)
+Visible deformity (Nose)
+Stiffness or decreased movement (Thigh)
+Pain or discomfort (Chest (lateral))
+Repetitive behaviors
+Bruising or discoloration (Upper arm (tricep))
+Tenderness to touch (Chest (lateral))
+Visible deformity (Forearm (flexor))
+Testicular pain
+Binge eating
+Coarse hair
+Joint locking or catching
+Visible deformity (Abdomen)
+Bruising or discoloration (Skin)
+Stiffness or decreased movement (Wrist)
+Lack of pleasure
+Bleeding (Neck (back))
+Numbness or tingling (Wrist)
+Difficulty talking (Chest)
+Pain or discomfort (Neck (back))
+Frequent urge to urinate (Pelvis)
+Bruising or discoloration (Hip)
+Difficulty falling asleep
+Itching or burning
+White patches on tongue
+Discharge from penis
+Broken bones (multiple fractures) (Chest)
+Visible deformity (Abdomen (upper))
+Bulging veins (Hamstring)
+Ringing in ears
+Broken bone (single fracture) (Fingers)
+Feeling of being detached from reality
+Multiple bruises of different ages (Abdomen (lower))
+Visual halos around lights
+Inappropriate behavior
+Vaginal bleeding after menopause
+Visible deformity
+Broken bone (single fracture) (Foot (top))
+Pressure or fullness
+Yellow eyes
+Pain or discomfort (Neck (front))
+Drainage or pus (Abdomen (upper))
+Curved spine (Thoracic spine)
+Pulling out hair
+Unable to bear weight (Thigh)
+Excessive mouth watering
+Drainage or pus (Groin)
+Feeling faint
+Tenderness to touch (Neck (back))
+Blood on stool surface
+Enlarged or swollen glands (Elbow)
+Noisy breathing (Nose)
+Hoarse voice (Mouth)
+Bruising or discoloration (Thoracic spine)
+Noisy breathing (Mouth)
+Bruising or discoloration (Wrist)
+Distended stomach (Abdomen)
+Muscle cramps or spasms (painful) (Back)
+Cloudy urine with strong odor
+Black (tar) colored stools
+Itching or burning (Ears)
+Bleeding (Abdomen (upper))
+Pain or discomfort (Pelvis)
+Bruising or discoloration (Axilla)
+Flushed skin (General)
+Loss of coordination
+Bald spots (hair) (Skin)
+Color change (Toes)
+Bruising or discoloration (Ears)
+Pain or discomfort (Mouth)
+Numbness or tingling (Fingers)
+Tenderness to touch (Abdomen (lower))
+Lump or bulge (Forearm (flexor))
+Itching or burning (Eyes)
+Pain or discomfort (Face)
+Warm to touch (Leg)
+Drainage or pus (Back)
+Slurred speech
+Difficulty stopping urine stream
+Muscle cramps or spasms (painful)
+Lump or bulge (Chest (lateral))
+Difficulty starting urine stream
+Color change (Hand (back))
+Fatigue
+Weakness (Upper arm (bicep))
+Holding bowel movements
+Frequent changes in eye glass prescription
+Pressure or fullness (Pelvis)
+Easy bleeding
+Excessive facial hair growth (male)
+Joint pain (Arm)
+Upward curving (spooning) of nails
+Visible deformity (Thoracic spine)
+Multiple bruises of different ages (Chest)
+Pain or discomfort (Upper arm (bicep))
+Blue colored skin (Foot (sole))
+Frightening dreams
+Muscle cramps or spasms (painful) (Calf)
+Stiffness or decreased movement (Elbow)
+Shaking hands or tremor
+Lump or bulge (Popliteal fossa)
+Shaking hands or tremor (Hand (back))
+Weakness (Leg)
+Bruising or discoloration (Eyes)
+Spots on throat (Neck (front))
+Curved or bent penis during erection
+Frequent infections
+Muscle wasting
+Numbness or tingling (Upper arm (tricep))
+Reduced productivity at work
+Unable to open mouth (jaw)
+Tenderness to touch (Jaw)
+Warm to touch (Nose)
+Irregular heartbeat (Chest (sternum))
+Drainage or pus (Eyes)
+Shuffling gait (feet)
+Slow or irregular breathing
+Bleeding
+Swelling (Nose)
+Spots on throat (Mouth)
+Brittle hair (Scalp)
+Broken bone (single fracture) (Leg)
+Morning joint stiffness (Hip)
+Joint pain
+Weakness (Forearm (flexor))
+Food getting stuck (swallowing) (Chest (sternum))
+Throat tightness
+Urine leaking (incontinence) (Genitals)
+Enlarged or swollen glands
+Warm to touch (Axilla)
+Drainage or pus
+Swelling (Foot (sole))
+Lump or bulge (Nose)
+Drainage or pus (Ears)
+Tenderness to touch (Forearm (flexor))
+Bitter almond odor on breath
+Pulsating sensation (Abdomen (upper))
+Rapid heart rate (pulse)
+Pain or discomfort (Jaw)
+Irregular heartbeat (Chest)
+Drinking excessive fluids (General)
+Swelling (Wrist)
+Cloudy urine with strong odor (Genitals)
+Vaginal bleeding
+Warm to touch (Elbow)
+Discharge or mucus in eyes
+Delayed motor development
+Numbness or tingling (Hamstring)
+Warm to touch (Forearm (flexor))
+Increased thirst (Mouth)
+Excessive sweating
+Unable to obtain or maintain erection
+Joint instability (Knee (patella))
+Floating spots or strings in vision
+Lightheadedness
+Soreness or burning inside of mouth
+Drainage or pus (Abdomen)
+Red (strawberry) tongue
+Fainting
+Bleeding (Ankle)
+Numbness or tingling (Genitals)
+Color change
+Pain when swallowing
+Lump or bulge (Calf)
+Irregular menstrual periods (Pelvis)
+Stiffness or decreased movement (Jaw)
+Pain or discomfort (Ears)
+Joint pain (Achilles)
+Bleeding (Scalp)
+Warm to touch (Foot (top))
+Frequent chewing
+Muscle twitching (painless) (Face)
+Low self-esteem
+Multiple bruises of different ages (Knee (patella))
+Drainage or pus (Thigh)
+Vision fading of colors
+Lump or bulge (Pelvis)
+Morning joint stiffness (Fingers)
+Numbness or tingling (Shin)
+Jaw locking (Mouth)
+Blue colored skin (Hand (palm))
+Unable to bear weight (Foot (sole))
+Numbness or tingling (Back)
+Broken bone (single fracture) (Toes)
+Frequent urge to have bowel movement
+Nighttime wheezing
+Drainage or pus (Axilla)
+Multiple bruises of different ages
+Lump or bulge (Mouth)
+Numbness or tingling (Shoulder)
+Joint instability (Popliteal fossa)
+Decreased appetite (Mouth)
+Morning joint stiffness (Ankle)
+Stiffness or decreased movement (Popliteal fossa)
+Bruising or discoloration (Nose)
+Pain or discomfort (Toes)
+Bleeding (Leg)
+Unusual taste in mouth
+Blurred vision
+Excessive sweating (Hand (palm))
+Unable to move arm
+Weakness (Hip)
+Drooping eyelid
+Lump or bulge (Hand (back))
+Pounding heart (pulse)
+Swelling (Thoracic spine)
+Bleeding (Forearm (flexor))
+Pressure or fullness (Abdomen (upper))
+Visible deformity (Chest)
+Visible deformity (Jaw)
+Lump or bulge (Foot (top))
+Fever
+Cough (Mouth)
+Bulging veins (Buttock)
+Morning joint stiffness (Shoulder)
+Pain or discomfort (Buttock)
+Difficulty swallowing
+Sensation of something in eye
+Stiffness or decreased movement (General)
+Blue colored skin (Hand (back))
+Nasal congestion
+Tilts head to look at something
+Weakness (Shoulder)
+Pain or discomfort (Back)
+Lump or bulge (Wrist)
+Numbness or tingling (Eyes)
+Pressure or fullness (Groin)
+Drainage or pus (Shoulder)
+Strange smell or taste (Nose)
+Bleeding (Mouth)
+Gum sores
+Pulsating sensation
+Broken bone (single fracture) (Neck (back))
+Multiple bruises of different ages (Pelvis)
+Swelling (Lumbar spine)
+Blue coloured lips
+Pain or discomfort (Shin)
+Swollen tonsils (Neck (front))
+Poor personal hygiene
+Guarding or favoring joint (Ankle)
+Lump or bulge (Back)
+Unable to bend foot down
+Stomach cramps (Abdomen (upper))
+Lump or bulge (Neck (front))
+Red or black spots on fingernails
+Muscle cramps or spasms (painful) (Toes)
+Jaw locking
+Bruising or discoloration (Buttock)
+Frequent urge to have bowel movement (Abdomen (lower))
+Multiple bruises of different ages (Hip)
+Palpitations (fluttering in chest) (Chest)
+Flushed skin
+Warm to touch (Toes)
+Bruising or discoloration (Arm)
+Numbness or tingling (Ears)
+Pain with sexual intercourse (female) (Pelvis)
+Swelling (Mouth)
+Drooping of one side of face
+Tenderness to touch (Elbow)
+Muscle cramps or spasms (painful) (Upper arm (tricep))
+Eye irritation
+Swelling (Fingers)
+Hunched or stooped posture (Thoracic spine)
+Lump or bulge (Hand (palm))
+Cloudy vision
+Puffy eyelids
+Lump or bulge (Abdomen (upper))
+Swelling (Achilles)
+Hives
+Numbness or tingling (Leg)
+Bleeding (Face)
+Multiple bruises of different ages (Foot (top))
+Tenderness to touch (Buttock)
+Paranoid behavior
+Warm to touch (Abdomen)
+Drinking excessive fluids (Mouth)
+Drainage or pus (Jaw)
+Curved spine
+Bruising or discoloration (Foot (sole))
+Tenderness to touch (Nose)
+Pain or discomfort (Abdomen (upper))
+Enlarged or swollen glands (Neck (back))
+Fear of water
+Drainage or pus (Genitals)
+Frequent nighttime urination (Genitals)
+Sense of impending doom
+Bulging veins (Thigh)
+Unable to move leg
+Stiffness or decreased movement (Shoulder)
+Pain or discomfort (Eyes)
+Sadness
+Lump or bulge (Fingers)
+Warm to touch (Shin)
+Bloating or fullness (Abdomen (lower))
+Tenderness to touch
+Fearful
+Strange smell or taste
+Early breast development
+Worms in stool
+Bruising or discoloration (Scalp)
+Numbness or tingling (Thoracic spine)
+Numbness or tingling (Toes)
+Lump or bulge (Hamstring)
+Broken bone (single fracture) (Shin)
+Bleeding (Knee (patella))
+Tenderness to touch (Ankle)
+Hair loss
+Heartburn (Chest)
+Coma
+Cold hands (Hand (palm))
+Tenderness to touch (Thoracic spine)
+Unable to bear weight (Foot (top))
+Muscle cramps or spasms (painful) (Shin)
+Warm to touch (Arm)
+Cold feet
+Weakness (generalized)
+Bulging veins
+Bleeding (Toes)
+Difficulty staying awake during day
+Increased thirst
+Pain with sexual intercourse (male)
+Muscle cramps or spasms (painful) (Abdomen (lower))
+Bruising or discoloration (Neck (front))
+Dry eyes
+Drainage or pus (Abdomen (lower))
+Lump or bulge (Axilla)
+Numbness or tingling (Popliteal fossa)
+Weakness (Fingers)
+Cough (Neck (front))
+Muscle cramps or spasms (painful) (Abdomen (upper))
+Drainage or pus (Mouth)
+Need brighter light to read
+Eye crusting with sleep
+Upset stomach (Mouth)
+Sore or burning eyes
+Visible deformity (Eyes)
+Bleeding (Arm)
+Broken bone (single fracture) (Chest (lateral))
+Sudden flash of lights
+Worms in stool (Buttock)
+Muscle cramps or spasms (painful) (Hamstring)
+Fever (Scalp)
+Painful bowel movements (Buttock)
+Pain with sexual intercourse (female)
+Popping or snapping sound from joint
+Nausea or vomiting (Abdomen (upper))
+Small (constricted) pupils
+Joint instability (Hip)
+Numbness or tingling (Axilla)
+Muscle cramps or spasms (painful) (Pelvis)
+Drainage or pus (Hamstring)
+Blue colored skin
+Unable to grip (hands) (Fingers)
+Lump or bulge (Thigh)
+Uncontrollable verbal outbursts
+Agitation
+Spots on tonsils
+Bulging veins (Forearm (flexor))
+Pain or discomfort (Chest (sternum))
+Lack of emotion
+Hot flashes
+Abnormal gait (walking)
+Hunger
+Binge drinking (alcohol)
+Drainage or pus (Scalp)
+Bleeding (Shin)
+Swelling (Neck (front))
+Muscle cramps or spasms (painful) (Shoulder)
+Drainage or pus (Hand (palm))
+Drainage or pus (Neck (back))
+Lump or bulge (Leg)
+Hyperventilating (rapid/deep breathing)
+Excessively salty sweat or skin
+Frequent laxative use
+Lump or bulge (Lumbar spine)
+Inability to move
+Stiffness or decreased movement (Arm)
+Distended stomach (Abdomen (lower))
+Nasal symptoms and one red eye (Nose)
+Muscle cramps or spasms (painful) (Jaw)
+Broken bone (single fracture) (Face)
+Pressure or heaviness (Chest)
+No menstrual periods
+Visible deformity (Fingers)
+Bruising or discoloration (Groin)
+Muscle cramps or spasms (painful) (Groin)
+Muscle cramps or spasms (painful) (Foot (sole))
+Numbness or tingling (Thigh)
+Stomach cramps (Abdomen (lower))
+Difficult to wake from sleep
+Swollen tongue
+Multiple bruises of different ages (Forearm (flexor))
+Tenderness to touch (Upper arm (bicep))
+Muscle cramps or spasms (painful) (Thigh)
+Bruising or discoloration (Thigh)
+Dark colored (brown) urine (Genitals)
+Numbness or tingling (Groin)
+Tender glands (Neck (front))
+Difficulty moving arm
+Red spots
+Pain or discomfort (Hand (palm))
+Visible deformity (Hand (palm))
+Vaginal discharge
+Warm to touch (Hand (back))
+Cold hands
+Constipation
+Lump or bulge (Scalp)
+Stiffness or decreased movement (Upper arm (bicep))
+Numbness or tingling (Hip)
+Numbness or tingling (Buttock)
+Visible deformity (Ankle)
+Color change (Foot (top))
+Multiple bruises of different ages (Abdomen (upper))
+Difficulty solving problems
+Drainage or pus (Knee (patella))
+Clicking or popping sound from jaw
+Blinking eyes
+Cloudy urine with strong odor (Pelvis)
+Excessive crying
+Lump or bulge (Chest (sternum))
+Swelling (Foot (top))
+Broken bones (multiple fractures) (Lumbar spine)
+Craving alcohol
+Headache
+Sore tongue
+Sore throat
+Skin hardening
+Bloating or fullness (Abdomen (upper))
+Fear of air
+Morning joint stiffness (Lumbar spine)
+Hearing voices
+Compulsive behavior
+Damaged teeth enamel
+Skin irritation
+Numbness or tingling (Forearm (flexor))
+Protruding rectal material
+Confusion
+Warm to touch (Jaw)
+Weakness (Ankle)
+Weakness (Hamstring)
+Inability to move (Knee (patella))
+Chills
+Dizziness
+Difficulty opening mouth (Mouth)
+Vaginal discharge (Pelvis)
+Morning joint stiffness (Toes)
+Muscle twitching (painless) (Fingers)
+Tenderness to touch (Chest)
+Difficulty swallowing (Neck (front))
+Drainage or pus (Forearm (flexor))
+Broken bones (multiple fractures) (Forearm (flexor))
+Weakness (Elbow)
+Morning joint stiffness (Neck (back))
+Dry mouth
+Unable to grip (hands)
+Inability to move (Elbow)
+Popping or snapping sound from joint (Shoulder)
+Lump or bulge (Neck (back))
+Shuffling gait (feet) (Foot (sole))
+Cough
+Missed or late menstrual period
+Multiple bruises of different ages (Calf)
+Warm to touch (Neck (back))
+Easily distracted
+Squinting eyes
+Drainage or pus (Hand (back))
+Squatting
+Drainage or pus (Upper arm (tricep))
+Cold hands (Hand (back))
+Pain or discomfort (Fingers)
+Joint pain (Lumbar spine)
+Swelling (Shin)
+Decreased tears when crying
+Change in bowel habits (Abdomen (upper))
+Itching or burning (Pelvis)
+Broken bones (multiple fractures) (Shin)
+Decreased sweating
+Muscle twitching (painless) (Hand (back))
+Apathy
+Broken bones (multiple fractures)
+Difficulty relaxing muscles after contracting them
+Bruising or discoloration (Shin)
+Lump or bulge (Elbow)
+Fits of rage
+Swelling (Popliteal fossa)
+Frequent bowel movements
+Pulling out eyelashes
+Inability to move (Upper arm (bicep))
+Constipation (Abdomen (upper))
+Numbness or tingling (Pelvis)
+Inability to move (Shoulder)
+Dark colored (brown) urine
+Warm to touch (Ankle)
+Ear ache
+Excessive body hair growth (Skin)
+Vaginal bleeding after menopause (Pelvis)
+Smooth tongue
+Drainage or pus (Wrist)
+Dry skin (General)
+Swelling (Axilla)
+Difficulty finding words
+Watery eyes
+Skin blisters
+Bleeding in eye
+Broken bone (single fracture) (Forearm (flexor))
+Bruising or discoloration (Abdomen)
+Visible deformity (Chest (lateral))
+Prolonged bleeding
+Noisy breathing (Neck (front))
+Difficulty opening mouth (Jaw)
+Itching or burning (Nose)
+Numbness or tingling (Foot (sole))
+Muscle cramps or spasms (painful) (Lumbar spine)
+Crying during sleep
+Muscle cramps or spasms (painful) (Thoracic spine)
+Bleeding (Foot (top))
+Short stature
+Urine leaking (incontinence) (Pelvis)
+Visible deformity (Face)
+Spots on throat
+Inability to move (Fingers)
+Easy bruising
+Unable to bear weight (Shin)
+Increased sensitivity to cold
+Tender glands (Jaw)
+Muscle twitching (painless) (Hand (palm))
+Multiple bruises of different ages (Scalp)
+Craving to eat ice dirt or paper
+Protruding vaginal material
+Numbness or tingling (Arm)
+Unusual or suspicious mole
+Sudden numbness or weakness on one side of body (Leg)
+Pain or discomfort (Groin)
+Sunken eyes
+Bald spots (hair)
+Bulging veins (Upper arm (bicep))
+Drainage or pus (Popliteal fossa)
+Warm to touch (Face)
+Bulging veins (Abdomen (lower))
+Stomach cramps (Abdomen)
+Cold feet (Toes)
+Lump or bulge (Foot (sole))
+Increased speech volume
+Tender glands
+Trembling
+Warm to touch (Thoracic spine)
+Blank stare (Face)
+Repeats phrases
+Drainage or pus (Chest (lateral))
+Slow or weak urine stream
+Muscle cramps or spasms (painful) (Upper arm (bicep))
+Numbness or tingling (Nose)
+Broken bone (single fracture) (Wrist)
+Stiff neck (Neck (back))
+Multiple bruises of different ages (Back)
+Hot dry skin
+Tenderness to touch (Face)
+Nervousness
+Bruising or discoloration (Genitals)
+Curved fingernails
+Numbness or tingling (Forearm (extensor))
+Morning joint stiffness (Elbow)
+Skin redness
+Bruising or discoloration (Lumbar spine)
+High blood pressure
+Straining with bowel movements
+Tenderness to touch (Abdomen (upper))
+Stiffness or decreased movement (Knee (patella))
+Developmental delays
+Blood or red colored urine
+Swelling (Groin)
+Spinning sensation
+Blue colored skin (Foot (top))
+Painful ejaculation
+Eyes do not track together
+Bruising or discoloration (Upper arm (bicep))
+Muscle twitching (painless) (Leg)
+Blackouts (memory time loss)
+Punching or kicking in sleep
+Enlarged or swollen glands (Groin)
+Color change (Foot (sole))
+Loss of consciousness
+Frequent urge to have bowel movement (Abdomen)
+Shortening of limb
+Pulsating sensation (Abdomen (lower))
+Pain with urination
+Night sweats
+Fever (General)
+Drainage or pus (Fingers)
+Bleeding (Thoracic spine)
+Restless (tossing and turning) sleep
+Constipation (Abdomen)
+Eyelid redness
+Bleeding (Genitals)
+Lump or bulge (Forearm (extensor))
+Bruising or discoloration (Forearm (flexor))
+Shaking chills (rigors)
+Warm to touch (Fingers)
+Broken bone (single fracture) (Scalp)
+Warm to touch (Hand (palm))
+Swelling (Ankle)
+Dry skin (Skin)
+Visible deformity (Neck (back))
+Stiffness or decreased movement (Leg)
+Swollen lips
+Sensitive to light
+Swelling (Jaw)
+Difficulty urinating (Pelvis)
+Numbness or tingling (Abdomen (upper))
+Joint pain (Ankle)
+Skin peeling cracking or scaling
+Yelling out during sleep
+Bruising or discoloration (Shoulder)
+Pressure or heaviness (Chest (sternum))
+Muscle cramps or spasms (painful) (Abdomen)
+Thick saliva or mucus
+Visible deformity (Abdomen (lower))
+Stiffness or decreased movement (Groin)
+Lump or bulge (Thoracic spine)
+Bleeding (Chest (lateral))
+Pulling out beard
+Difficulty staying asleep
+Pain or discomfort (Axilla)
+Spots on tonsils (Neck (front))
+Flickering lights in vision
+Drainage or pus (Foot (top))
+Red gums
+Irregular menstrual periods (Genitals)
+Visible deformity (Shin)
+Difficulty urinating (Genitals)
+Excessive facial hair growth (female) (Skin)
+Multiple bruises of different ages (Ankle)
+Lump or bulge (Abdomen)
+Muscle cramps or spasms (painful) (Face)
+Painful bowel movements
+Lump or bulge (Chest)
+Bleeding (Chest)
+Numbness or tingling (Chest)
+Swollen tonsils (Mouth)
+Loss of voice
+Slow growth (failure to thrive)
+Missed or late menstrual period (Pelvis)
+Flaking skin
+Bleeding (Chest (sternum))
+Enlarged (dilated) veins
+Bleeding (Abdomen)
+Lump or bulge (Ears)
+Morning joint stiffness (Wrist)
+Grinding teeth
+Flashbacks
+Stiffness or decreased movement (Toes)
+Black colored skin (Fingers)
+Swelling (Abdomen)
+Abnormal muscle enlargement (hypertrophy)
+Guarding or favoring joint (Popliteal fossa)
+Skin thickening
+Bruising or discoloration (Abdomen (lower))
+Snoring
+Vaginal bleeding between periods
+Broken bone (single fracture) (Ankle)
+Unable to move joint
+Lump or bulge (Jaw)
+Bleeding (Eyes)
+Muscle twitching (painless)
+Lump or bulge (Eyes)
+Thin (pencil) stools
+Bulging veins (Shin)
+Pressure or fullness (Abdomen)
+Joint pain (Neck (back))
+Numbness or tingling (Chest (sternum))
+Pulling out eyebrows
+Sunken soft spot on top of head
+Tenderness to touch (Fingers)
+Joint aches
+Unable to bear weight (Knee (patella))
+Involuntary movements (picking lip smacking etc.)
+Bleeding (Back)
+Skin open sore
+Socially withdrawn
+Broken bone (single fracture) (Thoracic spine)
+Rapid breathing
+Enlarged or swollen glands (Face)
+Bruising or discoloration (Achilles)
+Tenderness to touch (Toes)
+Muscle cramps or spasms (painful) (Foot (top))
+Dark colored (brown) urine (Pelvis)
+Warm to touch (Genitals)
+Bleeding (Wrist)
+Stiff neck
+Difficulty swallowing (Mouth)
+Frequent urination
+Bleeding (Ears)
+Vaginal bleeding (Genitals)
+Pain or discomfort (Calf)
+Drainage or pus (Lumbar spine)
+Forgetfulness
+Erectile dysfunction
+Itching or burning (Skin)
+Twisting or rotation of limb
+Warm to touch (Wrist)
+Muscle weakness
+Heavy menstrual bleeding (Genitals)
+Gagging
+Swelling (Scalp)
+Broken bones (multiple fractures) (Chest (sternum))
+Difficulty talking
+Poor concentration
+Warm to touch (Shoulder)
+Tenderness to touch (Groin)
+Post nasal drip
+Episodes of not breathing during sleep
+Numbness or tingling (Mouth)
+Regurgitation of food or liquid
+Tenderness to touch (Axilla)
+Flushed skin (Skin)
+Bleeding (Thigh)
+Emotional detachment
+Joint pain (Shoulder)
+Bruising or discoloration (Popliteal fossa)
+Bruising or discoloration (Chest (lateral))
+Muscle twitching (painless) (Neck (back))
+Bloating or fullness (Pelvis)
+Drainage or pus (Chest (sternum))
+Difficulty swallowing (Chest (sternum))
+Numbness or tingling (Lumbar spine)
+Tenderness to touch (Shin)
+Difficulty sleeping
+Frightening thoughts
+Frequent squinting
+Drowsiness
+Taste words when they are heard (Ears)
+Drainage or pus (Arm)
+Heartburn
+Restless or irritability
+Upset stomach (Abdomen)
+Memory problems
+Change in stools
+Bruising or discoloration
+Bruising or discoloration (Pelvis)
+Excessive sweating (General)
+Enlarged (dilated) pupils
+Blue colored skin (Fingers)
+Bruising or discoloration (Knee (patella))
+Pain with sexual intercourse (female) (Genitals)
+Shadow over part of vision
+Stiffness or decreased movement (Hip)
+Rapid speech
+Tenderness to touch (Genitals)
+Pale skin
+Tenderness to touch (Hip)
+Bruising or discoloration (Mouth)
+Broken bone (single fracture) (Hand (palm))
+Irregular heartbeat
+Bulging veins (Leg)
+Weakness (Foot (top))
+Swollen gums
+Excessive facial hair growth (female)
+Cracks at corner of mouth
+Grooved tongue
+Tender glands (Axilla)
+Pain or discomfort (Abdomen)
+Lump or bulge (Arm)
+Pain or discomfort (Foot (sole))
+Involuntary movements (picking lip smacking etc.) (Arm)
+Inability to care for self
+Double vision (with one eye covered)
+Visible bugs or parasites
+Tenderness to touch (Neck (front))
+Stomach cramps
+Upset stomach (Abdomen (upper))
+Muscle twitching (painless) (Neck (front))
+Noisy breathing
+Bloody or red colored vomit (Abdomen (upper))
+Warm to touch (Abdomen (upper))
+Bleeding (Elbow)
+Tenderness to touch (Shoulder)
+Excessive exercising
+Swelling (Forearm (flexor))
+Swelling (Abdomen (lower))
+Vaginal discharge (Genitals)
+Loss of outside 1/3 of eyebrow (unintentional)
+Warm to touch (Upper arm (bicep))
+Enlarged or swollen glands (Neck (front))
+Red (bloodshot) eyes
+Delusions
+Drainage or pus (Pelvis)
+Excessive sweating (Foot (sole))
+Brittle hair
+Joint pain (Wrist)
+Warm to touch (Scalp)
+Loss of voice (Mouth)
+Bleeding (Hip)
+Swelling (Chest (lateral))
+Numbness or tingling (Calf)
+Blood in toilet
+See letters numbers or musical notes as colors
+Visible deformity (Knee (patella))
+Sudden numbness or weakness on one side of body (Arm)
+Cough (Chest)
+Warm to touch
+Bruising or discoloration (Jaw)
+Vaginal bleeding between periods (Pelvis)
+Bleeding (Foot (sole))
+Bulging neck veins
+Color change (Hand (palm))
+Unable to grip (hands) (Hand (palm))
+Visible pulsations
+White patches inside mouth
+Warm to touch (Forearm (extensor))
+Joint pain (Elbow)
+Itching or burning (Scalp)
+Drooling
+Muscle cramps or spasms (painful) (Neck (back))
+Weight loss (intentional)
+Loss of voice (Neck (front))
+Decreased school performance
+Broken bone (single fracture) (Chest)
+Decreased appetite (General)
+Numbness or tingling (Hand (palm))
+Weakness
+Pain or discomfort (Foot (top))
+Weakness (Wrist)
+Jumpiness or easily startled
+Red eye (single)
+Pain or discomfort (Upper arm (tricep))
+Increased thirst (General)
+Bruising or discoloration (Ankle)
+Muscle twitching (painless) (Arm)
+Tightness
+Unable to bear weight (Ankle)
+Stiffness or decreased movement (Hamstring)
+Food getting stuck (swallowing) (Chest)
+Stiffness or decreased movement (Foot (top))
+Depressed mood
+Hearing loss
+Inability to move (Arm)
+Guarding or favoring joint
+Frequent nighttime urination
+Broken bones (multiple fractures) (Scalp)
+Numbness or tingling (Neck (back))
+Dislikes change in daily routine
+Curved spine (Lumbar spine)
+Lump or bulge (Abdomen (lower))
+Impaired social skills
+Foul smelling stools
+Vaginal bleeding between periods (Genitals)
+Enlarged or swollen glands (Axilla)
+Painful red lump on eyelid
+Guarding or favoring joint (Shoulder)
+Difficulty learning new things
+Pain or discomfort (Lumbar spine)
+Belching
+Muscle cramps or spasms (painful) (Buttock)
+Pain or discomfort (Abdomen (lower))
+Impaired judgement
+Numbness or tingling (Hand (back))
+Bulging veins (Arm)
+Intentional vomiting (purging)
+Pain when moving eyes
+Multiple bruises of different ages (Hamstring)
+Muscle stiffness (rigidity)
+Lump or bulge (Buttock)
+Pressure or fullness (Abdomen (lower))
+Blank stare
+Taste of acid in mouth
+Bleeding from nipple
+Personality changes
+Black colored skin (Toes)
+Sleep walking
+Tearing in one eye
+Hair loss (Scalp)
+Warm to touch (Neck (front))
+Muscle cramps or spasms (painful) (Hand (palm))
+Vaginal bleeding after menopause (Genitals)
+Heartburn (Chest (sternum))
+Bad taste in mouth
+Delayed language skills
+Bleeding (Abdomen (lower))
+Muscle cramps or spasms (painful) (Leg)
+Teeth do not fit like they used to
+Warm to touch (Groin)
+Shortness of breath
+Fear of gaining weight
+Flickering uncorlored zig-zag line in vision
+Stiffness or decreased movement (Ankle)
+Slow thinking
+Black colored skin
+Trouble distinguishing color shades
+Warm to touch (Foot (sole))
+Itching or burning (Genitals)
+Coffee grounds colored vomit
+Warm to touch (Eyes)
+Unable to bear weight (Hip)
+Lump or bulge (Shin)
+Bleeding (Lumbar spine)
+Decreased night vision
+Decreased smell
+Warm to touch (Ears)
+Giddiness
+Sudden numbness or weakness on one side of body
+Bloating or fullness (Abdomen)
+Joint pain (Hip)
+Tenderness to touch (Lumbar spine)
+Bruising or discoloration (Fingers)
+Pain or discomfort (Genitals)
+Joint instability
+Tenderness to touch (Thigh)
+Heavy menstrual bleeding
+Joint pain (Toes)
+Drainage or pus (Elbow)
+Eyes rolling back
+Vaginal dryness
+Short wide neck
+Sudden urge to urinate
+Itching or burning (Mouth)
+Frequent nighttime urination (Pelvis)
+Strange smell or taste (Mouth)
+Heavy menstrual bleeding (Pelvis)
+Excessive sweating (Axilla)
+Broken bones (multiple fractures) (Pelvis)
+Decreased urination
+Muffled voice
+Broken bone (single fracture) (Upper arm (bicep))
+Joint pain (Popliteal fossa)
+Warm to touch (Chest (sternum))
+Swelling (Hamstring)
+Welts
+Difficulty opening mouth
+Skin darkening
+Wheezing
+Visible deformity (Neck (front))
+Unusual facial expression
+New onset asthma
+Visible deformity (Chest (sternum))
+Broken bones (multiple fractures) (Buttock)
+Visible deformity (Hip)
+Bloating or fullness
+Seizures (uncontrollable jerking of limbs) (Arm)
+Frequent urge to urinate
+Unable to grip (hands) (Hand (back))
+Holding objects closer to read
+Nausea or vomiting
+Abnormally round face
+Pain or discomfort
+Numbness or tingling (Elbow)
+Warm to touch (Back)
+Weakness (Lumbar spine)
+Muscle cramps or spasms (painful) (Hand (back))
+Sensitive to noise
+Broken bone (single fracture) (Elbow)
+Pain or discomfort (Thoracic spine)
+Unusual behavior
+Stiffness or decreased movement (Lumbar spine)
+Drainage or pus (Ankle)
+Swelling (Upper arm (bicep))
+Partial vision loss
+Broken bone (single fracture) (Back)
+Bleeding (Buttock)
+Unequal pupils (size)
+Multiple bruises of different ages (Thoracic spine)
+Bruising or discoloration (Face)
+Broken bones (multiple fractures) (Face)
+Change in bowel habits
+Tenderness to touch (Scalp)
+Bleeding gums
+Drainage or pus (Neck (front))
+Metallic taste in mouth
+Loss of balance
+Tenderness to touch (Chest (sternum))
+Broken bone (single fracture) (Foot (sole))
+Double vision (without one eye covered)
+Swelling (Face)
+Decreased taste
+Sneezing
+Seizures (uncontrollable jerking of limbs) (Scalp)
+Tenderness to touch (Leg)
+Warm to touch (Hamstring)
+Tenderness to touch (Ears)
+Frequent urge to urinate (Genitals)
+Hoarse voice (Neck (front))
+Numbness or tingling (Abdomen)
+Numbness or tingling (Neck (front))
+Choking on food
+Excessive body hair growth
+Numbness or tingling (Jaw)
+Weakness (Arm)
+Swelling
+Prolonged breathing pauses
+Pain or discomfort (Leg)
+Drainage or pus (Leg)
+Choking
+Numbness or tingling (Knee (patella))
+Visible deformity (Forearm (extensor))
+Difficulty talking (Neck (front))
+Impaired color vision
+Lump or bulge (Genitals)
+Visible deformity (Toes)
+Broken bone (single fracture) (Calf)
+Hair loss (Skin)
+Multiple bruises of different ages (Thigh)
+Numbness or tingling (Chest (lateral))
+Brittle hair (Skin)
+Joint pain (Leg)
+Color change (Skin)
+Tenderness to touch (Eyes)
+Vaginal odor
+Joint instability (Elbow)
+Jaw locking (Jaw)
+Cold hands (Fingers)
+Bruising or discoloration (Neck (back))
+Missed or late menstrual period (Genitals)
+Cold feet (Foot (top))
+Numbness or tingling (Upper arm (bicep))
+Numbness or tingling
+Pain during erection
+Coated or furry tongue
+Involuntary head turning or twisting (Neck (back))
+Stiffness or decreased movement (Fingers)
+Spots on tonsils (Mouth)
+Premature ejaculation
+Lump or bulge (Toes)
+Tenderness to touch (Abdomen)
+Skin bumps
+Drainage or pus (Upper arm (bicep))
+Unable to bear weight
+Lump or bulge (Knee (patella))
+Swelling (Shoulder)
+Muscle cramps or spasms (painful) (Neck (front))
+Involuntary head turning or twisting
+Red spots inside lower eyelid
+Blind spot in vision
+Bruising or discoloration (Hand (palm))
+Swelling (Genitals)
+Stiffness or decreased movement
+Difficulty concentrating
+Hunched or stooped posture
+Involuntary movements (picking lip smacking etc.) (Mouth)
+Bleeding (Hand (palm))
+Lump or bulge (Shoulder)
+Joint pain (Fingers)
+Increased sensitivity to heat
+Blindness
+Bruising or discoloration (Abdomen (upper))
+Tenderness to touch (Hand (palm))
+Discharge from nipple
+Bleeding (Upper arm (bicep))
+Shaking
+Vaginal bleeding (Pelvis)
+Flaking skin (Skin)
+Cold feet (Foot (sole))
+Warm to touch (Calf)
+Drainage or pus (Chest)
+Broken bones (multiple fractures) (Leg)
+Muscle cramps or spasms (painful) (Chest (lateral))
+Visible deformity (Shoulder)
+Flaking skin (General)
+Tenderness to touch (Back)
+Swelling (Arm)
+Lump or bulge (Face)
+Drainage or pus (Face)
+Tenderness to touch (Forearm (extensor))
+Hyperactive behavior
+Jerking eye movements
+Pain or discomfort (Forearm (flexor))
+Broken bones (multiple fractures) (Fingers)
+Bruising or discoloration (Chest (sternum))
+Diarrhea
+Broken bones (multiple fractures) (Toes)
+Unable to bear weight (Toes)
+Lump or bulge
+Low blood pressure
+Fruity odor on breath
+Swelling (Toes)
+Bad breath
+Visible deformity (Lumbar spine)
+Pain or discomfort (Thigh)
+Taste words when they are heard (Mouth)
+Tenderness to touch (Knee (patella))
+Swelling (Knee (patella))
+Loss of side vision
+Drainage or pus (Toes)
+Involuntary movements (picking lip smacking etc.) (General)
+Bruising or discoloration (Hand (back))
+Weight gain
+Irregular menstrual periods
+Multiple bruises of different ages (Arm)
+Bleeding (Neck (front))
+Dizziness (General)
+Bruising or discoloration (Toes)
+Lump or bulge (Ankle)
+Bulging eyes
+Bulging veins (Abdomen)
+Blue colored skin (Toes)
+Painful bowel movements (Abdomen (lower))
+Pain or discomfort (Nose)
+Single palm crease
+Stiff neck (Neck (front))
+Feeling smothered
+Swelling (Chest (sternum))
+Visible deformity (Thigh)
+Drainage or pus (Shin)
+Unusually short forth fingers
+Joint pain (Knee (patella))
+Increased passing gas
+Unable to bear weight (Leg)
+Increased talkativeness
+Drinking excessive fluids
+Change in hair texture
+Pain or discomfort (Skin)
+Urine leaking (incontinence)
+Slow heart rate (pulse)
+Early morning waking
+Food getting stuck (swallowing) (Neck (front))
+Nosebleed
