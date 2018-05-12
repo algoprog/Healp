@@ -160,7 +160,7 @@ public class DataExtract {
     public static void create_train_data() throws FileNotFoundException, UnsupportedEncodingException {
         HashMap<String, Integer> symptoms_ids = new HashMap<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader("symptoms.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/symptoms.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 symptoms_ids.put(line, symptoms_ids.size()+1);
@@ -171,7 +171,7 @@ public class DataExtract {
 
         HashMap<String, Integer> conditions_ids = new HashMap<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader("conditions.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] p = line.split("\\|");
@@ -181,9 +181,9 @@ public class DataExtract {
             e.printStackTrace();
         }
 
-        PrintWriter w = new PrintWriter("data.txt", "UTF-8");
+        PrintWriter w = new PrintWriter("../data/data.txt", "UTF-8");
 
-        try (BufferedReader br = new BufferedReader(new FileReader("conditions_symptoms.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions_symptoms.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] p = line.split("::");
@@ -328,9 +328,9 @@ public class DataExtract {
     public static void getSymptoms() throws FileNotFoundException, UnsupportedEncodingException {
         HashMap<String, HashSet<String>> cs = new HashMap<>();
 
-        PrintWriter w = new PrintWriter("conditions_symptoms_2.txt", "UTF-8");
+        PrintWriter w = new PrintWriter("../data/conditions_symptoms_2.txt", "UTF-8");
 
-        try (BufferedReader br = new BufferedReader(new FileReader("conditions_symptoms.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions_symptoms.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] p = line.split("::");
@@ -486,7 +486,8 @@ public class DataExtract {
         //extract();
         //create_train_data2();
         //getSymptoms();
-        getInfo();
+        //getInfo();
+        create_train_data();
     }
 
     private static Document gethtml(String url) {
