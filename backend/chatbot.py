@@ -26,7 +26,7 @@ def respond(sentence, profile=[]):
     words = nltk.word_tokenize(sentence)
     pos = nltk.pos_tag(words)
 
-    #print(pos)
+    print(pos)
 
     prev_pos = pos[0][1]
     term = ""
@@ -34,8 +34,8 @@ def respond(sentence, profile=[]):
 
     for i in range(0, len(words)):
         current_pos = pos[i][1]
-        if prev_pos == "JJ" or current_pos.startswith("NN") or current_pos == "JJ" or current_pos.startswith("VB"):
-            if current_pos == "VBZ":
+        if prev_pos == "JJ" or current_pos.startswith("NN") or current_pos == "JJ" or current_pos.startswith("VB") or current_pos == "RB":
+            if current_pos == "VBZ" or current_pos == "VBP":
                 continue
             prev_pos = current_pos
             if not words[i] in stop_words:
@@ -64,13 +64,8 @@ def respond(sentence, profile=[]):
     return response
 
 
-#r = respond("I have stomachache, severe headache and also my nose is bleeding.")
-r = respond("", [("name", "Chris"),
-                 ("age", 22),
-                 ("gender", "male"),
-                 ("weight", 59),
-                 ("height", 180),
-                 ("country", "Greece")])
+r = respond("My heart beats very fast I have a headache and sometimes severe migraines I feel dizzy and I am tired.")
+#r = respond("", [("name", "Chris"),("age", 22),("gender", "male"),("weight", 59),("height", 180),("country", "Greece")])
 #r = respond("")
 
 print(r)
