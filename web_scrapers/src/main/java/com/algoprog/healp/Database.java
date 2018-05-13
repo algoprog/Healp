@@ -14,26 +14,26 @@ public class Database {
      */
     public static boolean connect() {
 
-        //Utils.print("Connecting to MySQL database...");
+        System.out.println("Connecting");
 
         try {
             Class.forName("com.mysql.jdbc.Driver");
         } catch (ClassNotFoundException e) {
-            //e.printStackTrace();
+            e.printStackTrace();
             return false;
         }
 
         try {
             conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/healp?useUnicode=yes&characterEncoding=UTF-8", "root", "");
             if (conn != null) {
-                //Utils.print("Connected to MySQL database!");
+                System.out.println("Connected");
                 return true;
             } else {
-                //Utils.print("MySQL connection error");
+                System.out.println("NOT Connected");
                 return false;
             }
         } catch (SQLException e) {
-            //Utils.print("MySQL connection error");
+            System.out.println("NOT Connected");
             e.printStackTrace();
             return false;
         }
