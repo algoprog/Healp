@@ -2,10 +2,15 @@ import numpy as np
 import keras as K
 import json
 import operator
+import mysql.connector
 from flask import Flask, request
 
 # load model
 model = K.models.load_model('model.h5')
+
+# connect to MySQL database
+conn = mysql.connector.connect(host='localhost', user='root', db='healp', passwd='')
+cursor = conn.cursor()
 
 app = Flask(__name__)
 
@@ -24,15 +29,6 @@ def predict_conditions():
             ids_to_symptoms[i] = line.rstrip()
             i += 1
 
-    conditions_symptoms = {}
-    with open('../data/conditions_symptoms_2.txt') as f:
-        for line in f:
-            parts = line.split('::')
-            condition = parts[0]
-            c_symptoms = parts[1].rstrip().rstrip('|').split('|')
-            conditions_symptoms[condition] = c_symptoms
-            i += 1
-
     # load conditions
     ids_to_conditions = {}
     i = 0
@@ -48,30 +44,23 @@ def predict_conditions():
     output_vector_conditions = np.ndarray.round(model.predict(np.array([input, ]))[0])
 
     i = 0
-    conditions = []
+    conditions = set()
+    next_symptoms = []
     for out in output_vector_conditions:
         if out == 1:
-            conditions.append(ids_to_conditions[i])
+            condition = ids_to_conditions[i]
+            query = 'SELECT name, symptoms, MATCH(name) AGAINST(\''+condition+'\') AS score FROM conditions WHERE MATCH(name) AGAINST(\''+condition+'\') HAVING score > 5 LIMIT 1;'
+            cursor.execute(query)
+            data = cursor.fetchall()
+            for row in data:
+                conditions.add(row[0])
+                for e in row[1].replace('\u2013', '-').rstrip(', ').split(', '):
+                    if e != '':
+                        next_symptoms.append(e)
         i += 1
+    conditions = list(conditions)
 
-    '''
-    next_symptoms = {}
-    symptoms_counts = {}
-    for condition in conditions:
-        for symptom in conditions_symptoms[condition]:
-            if symptom not in symptoms:
-                if symptom not in symptoms_counts:
-                    symptoms_counts[symptom] = 1
-                else:
-                    symptoms_counts[symptom] += 1
-
-    sorted_counts = sorted(symptoms_counts.items(), key=operator.itemgetter(1), reverse=True)
-
-    for symptom_count in sorted_counts:
-        next_symptoms[symptom_count[0]] = symptom_count[1]
-    '''
-
-    return json.dumps({'conditions': conditions})
+    return json.dumps({'conditions': conditions, 'next_symptoms': next_symptoms})
 
 
 if __name__ == '__main__':
