@@ -1,7 +1,6 @@
 import numpy as np
 import keras as K
 import json
-import operator
 import mysql.connector
 from flask import Flask, request
 
@@ -21,12 +20,10 @@ def predict_conditions():
 
     # load symptoms
     symptoms_to_ids = {}
-    ids_to_symptoms = {}
     i = 0
     with open('../data/symptoms.txt') as f:
         for line in f:
             symptoms_to_ids[line.rstrip()] = i
-            ids_to_symptoms[i] = line.rstrip()
             i += 1
 
     # load conditions
