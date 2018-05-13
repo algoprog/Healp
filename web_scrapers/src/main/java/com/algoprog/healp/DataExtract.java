@@ -366,6 +366,7 @@ public class DataExtract {
         w.close();
     }
 
+
     public static void getSymptoms2() {
         try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions_symptoms_2.txt"))) {
             String line;
@@ -385,106 +386,128 @@ public class DataExtract {
         }
     }
 
-    public static void getInfo(String url) {
-        System.out.println("URL: \n"+url);
 
-        Document doc = gethtml(url);
+    public static void getInfo() {
 
-        if(doc==null || doc.select("h1.local-header__title")==null || doc.select("h1.local-header__title").first()==null) return;
+        try (BufferedReader br = new BufferedReader(new FileReader("conditions.txt"))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] p = line.split("\\|");
 
-        //name
-        String name = doc.select("h1.local-header__title").first().text().trim();
-        System.out.println("NAME: "+name);
+                Document doc = gethtml("https://www.nhs.uk/search?collection=nhs-meta&query="+p[0]);
 
-
-
-        //overview
-        String overview = doc.select("div.article section").first().text();
-        System.out.println("OVERVIEW: \n"+overview);
-
-
-
-        //living with
-        String living_with = "";
-        Element e = doc.select("div.article section[id*=living-with]").first();
-        if(e!=null) {
-            e.select("h2").first().remove();
-            living_with = e.text();
-        }
-        System.out.println("LIVING WITH: \n"+living_with);
-
-
-
-        //symptoms
-        String symptoms = "";
-
-        if(doc.select("div.article section[id*=symptoms] li")!=null) {
-            for(Element e2 : doc.select("div.article section[id*=symptoms] li")) {
-                symptoms += e2.text().trim().replace(", ", " ").replace(",", "").replaceAll("\u00A0"," ").trim() + ", ";
-            }
-        }
-        if(doc.select("div.article section[id*=signs] li")!=null) {
-            for(Element e2 : doc.select("div.article section[id*=signs] li")) {
-                symptoms += e2.text().trim().replace(", ", " ").replace(",", "").replaceAll("\u00A0"," ").trim() + ", ";
-            }
-        }
-
-        doc = gethtml(url+"symptoms/");
-
-        if(doc!=null) {
-            for(Element e2 : doc.select("div.article section li")) {
-                symptoms += e2.text().trim().replace(", ", " ").replace(",", "").replaceAll("\u00A0"," ").trim() + ", ";
-            }
-        }
-
-        System.out.println("SYMPTOMS: \n"+symptoms);
-
-
-
-        //treatment
-        doc = gethtml(url+"treatment/");
-        String treating = "";
-        if(doc!=null) {
-            treating = doc.select("div.article section").first().text();
-        }
-        System.out.println("TREATING: "+treating);
-
-        //if(treating.equals("")) return;
-
-        Database.updateQuery("INSERT INTO conditions SET " +
-                "name = '"+ StringEscapeUtils.escapeSql(name)+"', " +
-                "overview = '"+StringEscapeUtils.escapeSql(overview)+"', " +
-                "symptoms = '"+StringEscapeUtils.escapeSql(symptoms)+"', " +
-                "treating = '"+StringEscapeUtils.escapeSql(treating)+"', " +
-                "living_with = '"+StringEscapeUtils.escapeSql(living_with)+"';");
-    }
-
-    public static void getData() {
-        String abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        for (int i=0;i<abc.length();i++) {
-            Document doc = gethtml("https://www.nhs.uk/Conditions/Pages/BodyMap.aspx?Index="+abc.charAt(i));
-
-            for(Element e : doc.select("div.index-section a")) {
-                String name = e.text();
-                String url = e.attr("href");
-                if(!url.startsWith("http:")) {
-                    url = "https://www.nhs.uk" + url;
+                //url
+                if(doc.select("ul[id=search-results] li a").first()==null) {
+                    Database.updateQuery("INSERT INTO conditions SET name = '"+ StringEscapeUtils.escapeSql(p[0])+"', overview = '"+StringEscapeUtils.escapeSql(p[1])+"';");
+                    continue;
                 }
 
-                getInfo(url);
+                String url = "";
+                for(Element eu : doc.select("ul[id=search-results] li a")) {
+                    url = eu.attr("title");
+                    if(url.contains("conditions/") && !url.endsWith(".pdf")) {
+                        String[] ps = url.replace("https://www.nhs.uk/","").split("/");
+                        if(ps[1].equals("Pages")) continue;
+                        url = "https://www.nhs.uk/conditions/"+ps[1]+"/";
+                        break;
+                    }
+                }
+                System.out.println("URL: \n"+url);
+
+                if(!url.contains("conditions/") || url.endsWith(".pdf")) {
+                    Database.updateQuery("INSERT INTO conditions SET name = '"+StringEscapeUtils.escapeSql(p[0])+"', overview = '"+StringEscapeUtils.escapeSql(p[1])+"';");
+                    continue;
+                }
+
+                doc = gethtml(url);
+
+                //name
+                String name = doc.select("h1.local-header__title").first().text().trim();
+                System.out.println("NAME: "+name);
+
+                //overview
+                String overview = doc.select("div.article section").first().text();
+                System.out.println("OVERVIEW: \n"+overview);
+
+                //when to see a doctor
+                String when_doctor = "";
+                Element e = doc.select("div.article section[id=when-to-see-a-doctor]").first();
+                if(e!=null) {
+                    e.select("h2").first().remove();
+                    when_doctor = e.text();
+                }
+                System.out.println("WHEN TO SEE A DOCTOR: \n"+when_doctor);
+
+                //living with
+                String living_with = "";
+                e = doc.select("div.article section[id*=living-with]").first();
+                if(e!=null) {
+                    e.select("h2").first().remove();
+                    living_with = e.text();
+                }
+                System.out.println("LIVING WITH: \n"+living_with);
+
+                doc = gethtml(url+"symptoms/");
+
+                //symptoms
+                String symptoms = "";
+                if(doc!=null) {
+                    for(Element e2 : doc.select("div.article section").first().select("li")) {
+                        symptoms += e2.text().trim().replace(",", "").replaceAll("\u00A0","") + ", ";
+                    }
+                    if(doc.select("div.article section[id*=symptoms] li")!=null) {
+                        for(Element e2 : doc.select("div.article section[id*=symptoms] li")) {
+                            symptoms += e2.text().trim().replace(",", "").replaceAll("\u00A0","") + ", ";
+                        }
+                    }
+                    if(doc.select("div.article section[id*=signs] li")!=null) {
+                        for(Element e2 : doc.select("div.article section[id*=signs] li")) {
+                            symptoms += e2.text().trim().replace(",", "").replaceAll("\u00A0","") + ", ";
+                        }
+                    }
+                }
+
+                System.out.println("SYMPTOMS: \n"+symptoms);
+
+                //when to seek help
+                String when_seek_help = "";
+                if(doc!=null) {
+                    e = doc.select("div.article section[id=when-to-seek-help] p").first();
+                    if(e!=null) {
+                        when_seek_help = e.text();
+                    }
+                }
+
+                System.out.println("WHEN TO SEEK HELP: \n"+when_seek_help);
+
+                doc = gethtml(url+"treatment/");
+                String treating = "";
+                if(doc!=null) {
+                    treating = doc.select("div.article section").first().text();
+                }
+                System.out.println("TREATING: "+treating);
+
+                Database.updateQuery("INSERT INTO conditions SET " +
+                        "name = '"+ StringEscapeUtils.escapeSql(name)+"', " +
+                        "overview = '"+StringEscapeUtils.escapeSql(overview)+"', " +
+                        "symptoms = '"+StringEscapeUtils.escapeSql(symptoms)+"', " +
+                        "when_seek_help = '"+StringEscapeUtils.escapeSql(when_seek_help)+"', " +
+                        "when_see_doctor = '"+StringEscapeUtils.escapeSql(when_doctor)+"', " +
+                        "treating = '"+StringEscapeUtils.escapeSql(treating)+"', " +
+                        "living_with = '"+StringEscapeUtils.escapeSql(living_with)+"';");
             }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
+
 
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, InterruptedException {
         //extract();
         //create_train_data2();
-        //getSymptoms2();
+        getSymptoms2();
         //getInfo();
         //create_train_data();
-        Database.connect();
-        getData();
-        //getInfo("https://www.nhs.uk/conditions/Bipolar-disorder/");
     }
 
     private static Document gethtml(String url) {
