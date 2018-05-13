@@ -242,7 +242,7 @@ public class DataExtract {
 
         //HashSet<String> symptoms = new HashSet<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader("symptoms.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/symptoms.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 symptoms_ids.put(line, symptoms_ids.size()+1);
@@ -253,7 +253,7 @@ public class DataExtract {
 
         HashMap<String, Integer> conditions_ids = new HashMap<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader("conditions.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] p = line.split("\\|");
@@ -263,9 +263,9 @@ public class DataExtract {
             e.printStackTrace();
         }
 
-        PrintWriter w = new PrintWriter("data_s.txt", "UTF-8");
+        PrintWriter w = new PrintWriter("../data/data_s.txt", "UTF-8");
 
-        try (BufferedReader br = new BufferedReader(new FileReader("conditions_symptoms.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions_symptoms.txt"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 String[] p = line.split("::");
@@ -364,6 +364,26 @@ public class DataExtract {
         }
 
         w.close();
+    }
+
+
+    public static void getSymptoms2() {
+        try (BufferedReader br = new BufferedReader(new FileReader("../data/conditions_symptoms_2.txt"))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] p = line.split("::");
+
+                String c = p[0];
+
+                if(p.length==1) continue;
+
+                String[] s = p[1].split("\\|");
+
+                System.out.println(c+" "+s.length);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
 
@@ -485,9 +505,9 @@ public class DataExtract {
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, InterruptedException {
         //extract();
         //create_train_data2();
-        //getSymptoms();
+        getSymptoms2();
         //getInfo();
-        create_train_data();
+        //create_train_data();
     }
 
     private static Document gethtml(String url) {
