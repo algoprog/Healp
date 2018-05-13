@@ -512,7 +512,7 @@ public class DataExtract {
 
     private static Document gethtml(String url) {
         if(!url.startsWith("http")) {
-            url = "https://symptomchecker.webmd.com/" + url;
+            //url = "https://symptomchecker.webmd.com/" + url;
         }
         try {
             return Jsoup.connect(url).
