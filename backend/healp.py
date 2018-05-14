@@ -32,7 +32,7 @@ def respond():
                        "like to know some things about you."
         else:
             response = "Hi " + getVar("name") + "! How can I help you today?"
-        return json.dumps({'response': response, 'conditions': '', 'next_symptoms': ''})
+        return simplejson.dumps({'response': response, 'conditions': '', 'next_symptoms': ''})
 
     words = nltk.word_tokenize(sentence)
     pos = nltk.pos_tag(words)
