@@ -11,6 +11,8 @@ import javax.net.ssl.SSLContext;
 import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 import java.io.*;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -476,14 +478,44 @@ public class DataExtract {
         }
     }
 
-    public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, InterruptedException {
+    public static void saveSymptoms() throws SQLException {
+        ResultSet rs = Database.getQuery("SELECT symptoms FROM conditions;");
+        while (rs.next()) {
+            String[] symptoms = rs.getString("symptoms").split(", ");
+            for(String symptom : symptoms) {
+                if(!symptom.equals("")) {
+                    //Database.updateQuery("INSERT INTO symptoms SET symptom = '"+symptom+"';");
+                    Database.updateQuery("UPDATE symptoms SET occurrences = occurrences + 1 WHERE symptom = '"+StringEscapeUtils.escapeSql(symptom)+"';");
+                }
+            }
+        }
+    }
+
+    public static void getRelatedSymptoms() throws SQLException {
+        ResultSet rs = Database.getQuery("SELECT symptom FROM symptoms;");
+        while (rs.next()) {
+            String symptom = rs.getString("symptom");
+
+            ResultSet rs2 = Database.getQuery("SELECT MATCH(symptom) AGAINST('"+symptom+"') AS score, COUNT(*) AS related FROM symptoms WHERE MATCH(symptom) AGAINST('"+symptom+"') HAVING score > 3;");
+            int related = 0;
+            if(rs2.next()) {
+                related = rs2.getInt("related");
+            }
+
+            Database.updateQuery("UPDATE symptoms SET related = "+related+" WHERE symptom = '"+symptom+"';");
+        }
+    }
+
+    public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, InterruptedException, SQLException {
         //extract();
         //create_train_data2();
         //getSymptoms2();
         //getInfo();
         //create_train_data();
         Database.connect();
-        getData();
+        saveSymptoms();
+        //getRelatedSymptoms();
+        //getData();
         //getInfo("https://www.nhs.uk/conditions/Bipolar-disorder/");
     }
 
