@@ -81,8 +81,8 @@ public class CaloriesExtract {
                 FoodEntry fe = new FoodEntry();
                 fe.food_name = row.select("td.food").text();
                 fe.serving = row.select("td.serving.portion").text();
-                fe.calories = row.select("td.kcal.portion").text();
-                fe.kilojoule = row.select("td.kj.portion").text();
+                fe.calories = row.select("td.kcal").first().text();
+                fe.kilojoule = row.select("td.kj").first().text();
                 foods.add(fe);
                 System.out.println(fe.food_name+"\t||\t"+fe.serving+"\t||\t"+fe.calories+"\t||\t"+fe.kilojoule);
             }
